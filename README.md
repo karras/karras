@@ -7,6 +7,11 @@
   </head>
   <!-- Body -->
   <body>
+    <!-- Banner -->
+    <!-- Kudos to https://fonts.google.com/specimen/Old+Standard+TT -->
+    <p align="center">
+      <img style="align: center" alt="Welcome" src="images/banner.png"/>
+    </p>
     <!-- Clippy -->
     <!-- Kudos to https://github.com/pi0/clippyjs -->
     <p align="right">
