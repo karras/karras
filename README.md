@@ -18,14 +18,14 @@
       <!-- Kudos to https://tenor.com/view/mr-free-super-tux-alphacron-fly-gif-14907503 -->
       <img height="100" alt="Tux" src="images/tux.gif"/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/karras/karras/issues/new">
+      <a href="https://github.com/karras/karras/issues/new?labels=guest&template=guestbook.yml&title=Guestbook+Entry">
         <!-- Kudos to https://www.fg-a.com/guestbook/checking-the-guestbook.gif -->
         <img height="100" alt="Guestbook" src="images/guestbook.gif"/>
       </a>
       <br />
       <strong>I love using Linux!</strong>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/karras/karras/issues/new">
+      <a href="https://github.com/karras/karras/issues/new?labels=guest&template=guestbook.yml&title=Guestbook+Entry">
         <strong>Sign my guestbook!</strong>
       </a>
     </p>

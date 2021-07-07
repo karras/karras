@@ -1,0 +1,46 @@
+name: ✏️ Guestbook Entry
+description: Leave an entry in the guestbook
+title: "Guestbook Entry"
+labels: [guest]
+assignees: []
+body:
+  - type: textarea
+    id: message
+    attributes:
+      label: Message 
+      description: Thanks for your stay, feel free to leave me a message!
+      placeholder: .....
+      value: "....."
+    validations:
+      required: false
+  - type: dropdown
+    id: referral
+    attributes:
+      label: Referral
+      description: How did you find my profile?
+      options:
+        - Awesome Lists
+        - GitHub Search
+        - Browser Search
+        - Magic (Other)
+    validations:
+      required: false
+  - type: dropdown
+    id: clippy
+    attributes:
+      label: Clippy
+      description: Was Clippy helpful?
+      options:
+        - Yes, what a great chap
+        - No, go rick-roll yourself
+        - What's Clippy?
+    validations:
+      required: false
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: Leave your contact details here
+      placeholder: Clark Kent
+    validations:
+      required: false
