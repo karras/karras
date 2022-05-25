@@ -16,11 +16,12 @@
     <!-- Kudos to https://github.com/BrunnerLivio -->
     <p align="center">
       <!-- Kudos to https://tenor.com/view/mr-free-super-tux-alphacron-fly-gif-14907503 -->
-      <img height="100" alt="Tux" src="images/tux.gif"/>
+      <img height="90" alt="Tux" src="images/tux.gif"/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/karras/karras/issues/new?labels=guest&template=guestbook.yml&title=Guestbook+Entry">
         <!-- Kudos to https://www.fg-a.com/guestbook/checking-the-guestbook.gif -->
-        <img height="100" alt="Guestbook" src="images/guestbook.gif"/>
+        <!-- If GIFs are larger than 87px the overlay link somehow disappears -->
+        <img height="87" alt="Guestbook" src="images/guestbook.gif"/>
       </a>
       <br />
       <strong>I love using Linux!</strong>
@@ -35,7 +36,8 @@
       <br />
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <!-- Kudos to https://github.com/pi0/clippyjs -->
-        <img height="180" alt="Helpful Clippy" src="images/clippy.gif"/>
+        <!-- If GIFs are larger than 87px the overlay link somehow disappears -->
+        <img height="87" alt="Helpful Clippy" src="images/clippy.gif"/>
       </a>
     </p>
     <!-- Footer -->
