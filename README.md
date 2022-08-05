@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
   <!-- Header -->
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
@@ -18,7 +18,7 @@
       <!-- Kudos to https://tenor.com/view/mr-free-super-tux-alphacron-fly-gif-14907503 -->
       <img height="90" alt="Tux" src="images/tux.gif"/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/karras/karras/issues/new?labels=guest&template=guestbook.yml&title=Guestbook+Entry">
+      <a href="https://github.com/karras/karras/issues/new?labels=guest&amp;template=guestbook.yml&amp;title=Guestbook+Entry">
         <!-- Kudos to https://www.fg-a.com/guestbook/checking-the-guestbook.gif -->
         <!-- If GIFs are larger than 87px the overlay link somehow disappears -->
         <img height="87" alt="Guestbook" src="images/guestbook.gif"/>
@@ -26,7 +26,7 @@
       <br />
       <strong>I love using Linux!</strong>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/karras/karras/issues/new?labels=guest&template=guestbook.yml&title=Guestbook+Entry">
+      <a href="https://github.com/karras/karras/issues/new?labels=guest&amp;template=guestbook.yml&amp;title=Guestbook+Entry">
         <strong>Sign my guestbook!</strong>
       </a>
     </p>
